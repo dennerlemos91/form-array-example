@@ -1,0 +1,153 @@
+{
+  "questionarios": [
+    {
+      "seq": 527732,
+      "numeroRegistro": "201500051676",
+      "situacao": { "codigo": 1, "descricao": "Aberto" },
+      "questoes": [
+        {
+          "seq": 30422706,
+          "descricao": "DIREITO TRIBUTÁRIO, Impostos, IGF - Imposto sobre Grandes Fortunas",
+          "nomeDaParte": ["VANDERLEI DANTAS PEREIRA"],
+          "paginaPeticaoREsp": 56,
+          "observacao": "",
+          "respostas": [
+            { "seq": 11871989, "seqItemQuestao": 1, "valor": "1" },
+            { "seq": 11871990, "seqItemQuestao": 2, "valor": "" },
+            {
+              "seq": 11871991,
+              "seqItemQuestao": 3,
+              "valor": "dasdasdasdasdas dfajdhasjkhdaskj"
+            }
+          ]
+        },
+        {
+          "seq": 30422614,
+          "descricao": "ICMS / Imposto sobre Circulação de Mercadorias, Incidência Sobre o Ativo Fixo",
+          "nomeDaParte": ["VANDERLEI DANTAS PEREIRA"],
+          "paginaPeticaoREsp": 57,
+          "observacao": "",
+          "respostas": [
+            { "seq": 11871992, "seqItemQuestao": 1, "valor": "" },
+            { "seq": 11871993, "seqItemQuestao": 2, "valor": "1" },
+            { "seq": 11871994, "seqItemQuestao": 34, "valor": "89;6;15" }
+          ]
+        },
+        {
+          "seq": 30422718,
+          "descricao": "Alíquota Zero, Importação, Não Cumulatividade, IGF - Imposto sobre Grandes Fortunas",
+          "nomeDaParte": [
+            "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO",
+            "VANDERLEI DANTAS PEREIRA"
+          ],
+          "paginaPeticaoREsp": 12,
+          "observacao": "",
+          "respostas": []
+        },
+        {
+          "seq": 30422615,
+          "descricao": "ICMS / Imposto sobre Circulação de Mercadorias, Incidência Sobre o Ativo Fixo",
+          "nomeDaParte": [
+            "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO",
+            "VANDERLEI DANTAS PEREIRA"
+          ],
+          "paginaPeticaoREsp": 58,
+          "observacao": "",
+          "respostas": [
+            { "seq": 11871995, "seqItemQuestao": 1, "valor": "1" },
+            { "seq": 11871996, "seqItemQuestao": 2, "valor": "" },
+            {
+              "seq": 11871997,
+              "seqItemQuestao": 3,
+              "valor": "Observação de teste 2"
+            },
+            { "seq": 11871998, "seqItemQuestao": 34, "valor": "10;20" }
+          ]
+        },
+        {
+          "seq": 30422719,
+          "descricao": "Drawback, II / Imposto sobre Importação",
+          "nomeDaParte": [
+            "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO",
+            "VANDERLEI DANTAS PEREIRA"
+          ],
+          "paginaPeticaoREsp": 43,
+          "observacao": "",
+          "respostas": []
+        },
+        {
+          "seq": 30422716,
+          "descricao": "Impostos, Contribuições, Discriminação Tributária MERCOSUL",
+          "nomeDaParte": [
+            "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO",
+            "VANDERLEI DANTAS PEREIRA"
+          ],
+          "paginaPeticaoREsp": 12,
+          "observacao": "",
+          "respostas": []
+        },
+        {
+          "seq": 30422717,
+          "descricao": "Alíquota Zero, Importação, Não Cumulatividade, IGF - Imposto sobre Grandes Fortunas",
+          "nomeDaParte": ["VANDERLEI DANTAS PEREIRA"],
+          "paginaPeticaoREsp": 12,
+          "observacao": "",
+          "respostas": []
+        },
+        {
+          "seq": 30422720,
+          "descricao": "Impostos, Aquisição de passagens e moedas - Viagem Exterior, Estaduais, Federais, Municipais",
+          "nomeDaParte": [
+            "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO",
+            "VANDERLEI DANTAS PEREIRA"
+          ],
+          "paginaPeticaoREsp": 23,
+          "observacao": "",
+          "respostas": []
+        },
+        {
+          "seq": 30422721,
+          "descricao": "ISS / Imposto sobre Serviços, ITBI / Imposto de Transmissão Intervivos de Bens Móveis e Imóveis, ITCD / Imposto de Transmissão Causa Mortis, Alíquota",
+          "nomeDaParte": ["VANDERLEI DANTAS PEREIRA"],
+          "paginaPeticaoREsp": 25,
+          "observacao": "",
+          "respostas": []
+        },
+        {
+          "seq": 30422722,
+          "descricao": "ISS / Imposto sobre Serviços, ITBI / Imposto de Transmissão Intervivos de Bens Móveis e Imóveis, ITCD / Imposto de Transmissão Causa Mortis, Alíquota",
+          "nomeDaParte": [
+            "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO",
+            "VANDERLEI DANTAS PEREIRA"
+          ],
+          "paginaPeticaoREsp": 25,
+          "observacao": "",
+          "respostas": []
+        }
+      ]
+    },
+    {
+      "seq": 527733,
+      "numeroRegistro": "201500051677",
+      "situacao": { "codigo": 1, "descricao": "Aberto" },
+      "questoes": [
+        {
+          "seq": 30422706,
+          "descricao": "DIREITO TRIBUTÁRIO, Impostos, IGF - Imposto sobre Grandes Fortunas",
+          "nomeDaParte": ["VANDERLEI DANTAS PEREIRA"],
+          "paginaPeticaoREsp": 56,
+          "observacao": "",
+          "respostas": [
+            { "seq": 11871989, "seqItemQuestao": 1, "valor": "1" },
+            { "seq": 11871990, "seqItemQuestao": 2, "valor": "" },
+            {
+              "seq": 11871991,
+              "seqItemQuestao": 3,
+              "valor": "dasdasdasdasdas dfajdhasjkhdaskj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

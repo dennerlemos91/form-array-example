@@ -1,0 +1,13 @@
+<form [formGroup]="formulario">
+  <div formArrayName="questoes" *ngFor="let questao of questoes.controls; let i = index">
+    <div [formGroupName]="i">
+        <app-questao [questao]="questao"></app-questao>
+    </div>
+  </div>
+</form>
+<fieldset>
+  <pre>
+      {{formulario.value | json}}
+  </pre>
+</fieldset>
+

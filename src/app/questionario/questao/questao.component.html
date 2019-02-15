@@ -1,0 +1,12 @@
+<div [formGroup]="questao" >
+  <div *ngIf="respostas.length; else teste;">
+    <div formArrayName="respostas" *ngFor="let resposta of respostas.controls; let i = index">
+        <div [formGroupName]="i">
+          <app-resposta [resposta]="resposta"></app-resposta>
+        </div>
+      </div>
+  </div>
+</div>
+<ng-template #teste>
+    não têm resposta
+</ng-template>

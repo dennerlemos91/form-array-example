@@ -1,0 +1,14 @@
+<div [formGroup]="resposta">
+  <div *ngIf="resposta.get('seqItemQuestao').value === 1">
+      <input type="radio" [value]="'1'" formControlName="valor"> SIM
+    </div>
+    <div *ngIf="resposta.get('seqItemQuestao').value === 2">
+      <input type="radio" [value]="'1'" formControlName="valor"> NÃO
+    </div>
+    <div *ngIf="resposta.get('seqItemQuestao').value === 3">
+      <input name="text"  type="text" formControlName="valor">
+    </div>
+    <div *ngIf="resposta.get('seqItemQuestao').value === 34">
+      <input name="text"  type="text" formControlName="valor">
+    </div>
+</div>
